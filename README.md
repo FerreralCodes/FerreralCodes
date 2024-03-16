@@ -5,9 +5,13 @@ Tenho conhecimento básico em Python, Java e algumas ferramentas de desenvolvime
 Estou em busca da minha primeira experiência profissional na área da tecnologia. Tenho muito interesse em back-end.
 
 Se você se interessou em meu perfil, e está a procura de um programador:
+
 👊 - Proativo
+
 🏃 - Interessado em Aprender
+
 💫 - Criativo
+
 Eu aguardarei seu contato!
 
 <!---
