@@ -1,7 +1,9 @@
 Bem vindo/a ao meu perfil😉
 
 Meu nome é Guilherme, sou estudante de Análise e Desenvolvimento de Sistemas!
+
 Tenho conhecimento básico em Python, Java e algumas ferramentas de desenvolvimento web (como CSS e HTML);
+
 Estou em busca da minha primeira experiência profissional na área da tecnologia. Tenho muito interesse em back-end.
 
 Se você se interessou em meu perfil, e está a procura de um programador:
